@@ -1,0 +1,5 @@
+Create a env folder : C:\Monal\Work\uv-venv\FDE-demo-clinical-env
+uv venv --python 3.12 C:\Monal\Work\uv-venv\FDE-demo-clinical-env
+Using CPython 3.12.14
+Creating virtual environment at: C:\Monal\Work\uv-venv\FDE-demo-clinical-env
+Activate with: C:\Monal\Work\uv-venv\FDE-demo-clinical-env\Scripts\activate
